@@ -1,1 +1,1 @@
-https://dmitry-savenkov.github.io/Window_step_7/dist/
+https://dmitry-savenkov.github.io/irvas-js-site/dist/
